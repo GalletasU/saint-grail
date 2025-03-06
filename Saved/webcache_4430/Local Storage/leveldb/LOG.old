@@ -1,2 +1,3 @@
-2025/03/06-14:37:15.765 3814 Creating DB C:/Users/david/Documents/GitHub/saint-grail/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/03/06-14:37:15.836 3814 Reusing MANIFEST C:/Users/david/Documents/GitHub/saint-grail/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/03/06-14:40:23.278 5280 Reusing MANIFEST C:/Users/david/Documents/GitHub/saint-grail/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/03/06-14:40:23.279 5280 Recovering log #3
+2025/03/06-14:40:23.279 5280 Reusing old log C:/Users/david/Documents/GitHub/saint-grail/Saved/webcache_4430\Local Storage\leveldb/000003.log 
