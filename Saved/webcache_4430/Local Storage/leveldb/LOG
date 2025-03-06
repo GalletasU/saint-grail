@@ -1,2 +1,3 @@
-2025/03/05-22:45:44.552 59ac Creating DB D:/UE_Projects/saint-grail/saint-grail/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/03/05-22:45:44.565 59ac Reusing MANIFEST D:/UE_Projects/saint-grail/saint-grail/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/03/05-23:14:12.259 5904 Reusing MANIFEST D:/UE_Projects/saint-grail/saint-grail/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/03/05-23:14:12.260 5904 Recovering log #3
+2025/03/05-23:14:12.260 5904 Reusing old log D:/UE_Projects/saint-grail/saint-grail/Saved/webcache_4430\Local Storage\leveldb/000003.log 
