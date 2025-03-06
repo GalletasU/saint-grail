@@ -1,2 +1,42 @@
+<<<<<<< HEAD
 [0306/113916.024:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0306/114113.991:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+[0306/101727.667:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[0306/101729.876:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0306/101730.476:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0306/101730.478:ERROR:entry_impl.cc(1075)] No file for c1030002
+[0306/101730.479:WARNING:storage_block-inl.h(146)] Failed data load.
+[0306/101928.355:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0306/104428.695:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0306/104429.467:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
+
+[0306/104430.148:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0306/104437.285:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0306/104437.600:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0306/104439.186:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+
+=======
+[0306/110352.146:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0306/110551.294:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> 2d370814e81dad29ede719cb7fff68b831ae2d79
+=======
+[0306/113215.781:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0306/113414.699:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> 8490a2ece8ace25610f2ebac0b40467e161ce0a5
+>>>>>>> b5101b805a6446b94e88acc3c00187c0a752ad4e
