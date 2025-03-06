@@ -1855,3 +1855,456 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.06-22.39.54:522][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.06-22.39.54:522][142]AssetCheck: /Game/levels/Level_3 Validating asset
 [2025.03.06-22.39.54:531][142]LogAutomationController: Ignoring very large delta of 3.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.06-22.40.43:927][130]LogContentBrowser: Attempting asset rename: cambio_1 -> cambio_1-2
+[2025.03.06-22.40.43:974][130]LogStreaming: Display: FlushAsyncLoading(353): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.06-22.40.43:978][130]LogMetaData: Removing '/Game/levels/cambio_1-2.cambio_1-2_C' ref from Metadata '/Game/levels/cambio_1.PackageMetaData'
+[2025.03.06-22.40.43:978][130]LogMetaData: Removing '/Game/levels/cambio_1-2.cambio_1-2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/levels/cambio_1.PackageMetaData'
+[2025.03.06-22.40.43:978][130]LogMetaData: Removing '/Game/levels/cambio_1-2.SKEL_cambio_1-2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/levels/cambio_1.PackageMetaData'
+[2025.03.06-22.40.43:978][130]LogMetaData: Removing '/Game/levels/cambio_1-2.SKEL_cambio_1-2_C:UserConstructionScript' ref from Metadata '/Game/levels/cambio_1.PackageMetaData'
+[2025.03.06-22.40.43:978][130]LogMetaData: Removing '/Game/levels/cambio_1-2.SKEL_cambio_1-2_C' ref from Metadata '/Game/levels/cambio_1.PackageMetaData'
+[2025.03.06-22.40.43:978][130]LogMetaData: Removing '/Game/levels/cambio_1-2.cambio_1-2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/levels/cambio_1.PackageMetaData'
+[2025.03.06-22.40.44:000][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-22.40.44:000][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/cambio_1-2] ([2] browsable assets)...
+[2025.03.06-22.40.44:000][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/cambio_1-2]
+[2025.03.06-22.40.44:000][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/cambio_1-2" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_1-2.uasset" SILENT=true
+[2025.03.06-22.40.44:002][130]LogSavePackage: Moving output files for package: /Game/levels/cambio_1-2
+[2025.03.06-22.40.44:002][130]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/cambio_1-2E5A868AB4B5B02FF60AB4FB0FA895722.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_1-2.uasset'
+[2025.03.06-22.40.44:006][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/cambio_1] ([5] browsable assets)...
+[2025.03.06-22.40.44:006][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/cambio_1]
+[2025.03.06-22.40.44:006][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/cambio_1" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_1.uasset" SILENT=true
+[2025.03.06-22.40.44:007][130]LogSavePackage: Moving output files for package: /Game/levels/cambio_1
+[2025.03.06-22.40.44:007][130]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/cambio_136EA6C614DBEF53885C8A796554D6FAB.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_1.uasset'
+[2025.03.06-22.40.44:009][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.994 ms (total: 228.350 ms)
+[2025.03.06-22.40.44:042][130]LogContentValidation: Display: Starting to validate 4 assets
+[2025.03.06-22.40.44:042][130]LogContentValidation: Enabled validators:
+[2025.03.06-22.40.44:042][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-22.40.44:042][130]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-22.40.44:042][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-22.40.44:042][130]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-22.40.44:042][130]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-22.40.44:042][130]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-22.40.44:042][130]AssetCheck: /Game/levels/cambio_1-2 Validating asset
+[2025.03.06-22.40.44:042][130]AssetCheck: /Game/levels/cambio_1 Validating asset
+[2025.03.06-22.40.44:042][130]AssetCheck: /Game/levels/cambio_1 Validating asset
+[2025.03.06-22.40.44:042][130]AssetCheck: /Game/levels/cambio_1 Validating asset
+[2025.03.06-22.40.53:416][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.06-22.40.53:417][214]Cmd: MAP LOAD FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_dos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.06-22.40.53:478][214]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.40.53:478][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.40.53:487][214]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.06-22.40.53:490][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.06-22.40.53:491][214]LogStreaming: Display: FlushAsyncLoading(354): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.06-22.40.53:505][214]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_dos'.
+[2025.03.06-22.40.53:505][214]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_dos
+[2025.03.06-22.40.53:508][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_1.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:509][214]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old needed to have new flag set bUsedWithNanite !
+[2025.03.06-22.40.53:516][214]MapCheck: Warning: M_Brick_Clay_Old Material /Game/StarterContent/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2025.03.06-22.40.53:554][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:554][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:554][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:556][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_1.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:557][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_1.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:567][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:567][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:567][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:568][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:568][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:568][214]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.40.53:579][214]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.06-22.40.53:592][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.06-22.40.53:606][214]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.06-22.40.53:606][214]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,076ms to complete.
+[2025.03.06-22.40.53:631][214]LogSlate: Window 'Open Level' being destroyed
+[2025.03.06-22.40.55:036][345]LogSlate: Window 'Message Log' being destroyed
+[2025.03.06-22.40.55:060][345]LogSlate: Window 'Message Log' being destroyed
+[2025.03.06-22.41.40:417][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.06-22.41.40:420][828]Cmd: MAP LOAD FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.06-22.41.40:478][828]LogWorld: UWorld::CleanupWorld for Level_dos, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.41.40:478][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.41.40:486][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.06-22.41.40:487][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.06-22.41.40:488][828]LogStreaming: Display: FlushAsyncLoading(355): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.06-22.41.40:492][828]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2025.03.06-22.41.40:492][828]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.03.06-22.41.40:514][828]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.06-22.41.40:525][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.06-22.41.40:535][828]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.06-22.41.40:535][828]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,044ms to complete.
+[2025.03.06-22.41.40:536][828]LogSlate: Window 'Open Level' being destroyed
+[2025.03.06-22.41.41:450][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 356.908875
+[2025.03.06-22.41.41:571][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-22.41.41:571][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 357.022339, Update Interval: 318.540009
+[2025.03.06-22.41.45:668][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.06-22.41.45:670][371]Cmd: MAP LOAD FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/level_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.06-22.41.45:728][371]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.41.45:728][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.41.45:737][371]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.06-22.41.45:739][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.06-22.41.45:739][371]LogStreaming: Display: FlushAsyncLoading(356): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.06-22.41.45:744][371]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_0'.
+[2025.03.06-22.41.45:744][371]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_0
+[2025.03.06-22.41.45:768][371]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.06-22.41.45:779][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.06-22.41.45:790][371]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.06-22.41.45:790][371]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,05ms to complete.
+[2025.03.06-22.41.45:791][371]LogSlate: Window 'Open Level' being destroyed
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: ================================================
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Total job queries 259, among them cache hits 49 (18.92%), DDC hits 200 (77.22%), Duplicates 5 (1.93%)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Tracking 205 distinct input hashes that result in 186 distinct outputs (90.73%)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: RAM used: 133,13 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Job execution time: average 2.53 s, max 2.76 s
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Job life time (pending + execution): average 2.59 s, max 2.81
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Shader code size: average 18,438 KiB, min 15,64 KiB, max 20,961 KiB
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.82 s
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Average processing rate: 1.77 jobs/sec
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Total thread time: 9,69 s
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Total thread preprocess time: 3,783 s
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Percentage time preprocessing: 39.04%
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Effective parallelization: 3.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.19 sec, max 2.19 sec, min 2.19 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.75 sec, max 1.75 sec, min 1.75 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 22.69% of total time (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 22.65% of total time (compiled    1 times, average 2.19 sec, max 2.19 sec, min 2.19 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                                                 FLumenCardCS - 18.76% of total time (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.07% of total time (compiled    1 times, average 1.75 sec, max 1.75 sec, min 1.75 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 17.83% of total time (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: === Material stats ===
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Materials Translated:    155
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Material Translation Only: 0.04 s (51%)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: Material Cache Hits: 41 (26%)
+[2025.03.06-22.41.48:867][701]LogShaderCompilers: Display: ================================================
+[2025.03.06-22.42.05:207][433]Cmd: TRANSACTION UNDO
+[2025.03.06-22.42.05:207][433]LogEditorTransaction: Undo Clicking on Actors
+[2025.03.06-22.42.05:662][445]Cmd: TRANSACTION UNDO
+[2025.03.06-22.42.05:662][445]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.06-22.42.06:022][477]Cmd: TRANSACTION UNDO
+[2025.03.06-22.42.06:022][477]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.06-22.42.15:053][465]LogContentBrowser: Attempting asset rename: cambio_1-2 -> cambio_1-2
+[2025.03.06-22.42.28:346][929]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.06-22.42.28:355][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.06-22.42.28:387][929]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2025.03.06-22.42.28:389][929]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.03.06-22.42.28:407][930]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_level_0
+[2025.03.06-22.42.28:411][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004054s)
+[2025.03.06-22.42.28:411][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/level_0.Level_0 to /Game/levels/UEDPIE_0_level_0.Level_0 (0.004094s)
+[2025.03.06-22.42.28:419][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.06-22.42.28:422][930]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_0
+[2025.03.06-22.42.28:423][930]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2025.03.06-22.42.28:424][930]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.06-22.42.28:424][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.06-22.42.28:424][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.06-22.42.28:424][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.06-22.42.28:424][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.06-22.42.28:424][930]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.06-22.42.28:424][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.06-22.42.28:424][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.06-22.42.28:424][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.06-22.42.28:424][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.06-22.42.28:424][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.06-22.42.28:424][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.06-22.42.28:426][930]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.06-22.42.28:452][930]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.03.06-22.42.28:452][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.06-22.42.28:452][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.06-22.42.28:452][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.06-22.42.28:453][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.06-22.42.28:453][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.06-22.42.28:455][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.06-22.42.28:455][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.06-22.42.28:455][930]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.06-22.42.28:455][930]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_0'.
+[2025.03.06-22.42.28:455][930]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.06-22.42.28:457][930]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.03.06-22.42.28:460][930]LogWorld: Bringing World /Game/levels/UEDPIE_0_level_0.Level_0 up for play (max tick rate 0) at 2025.03.06-17.42.28
+[2025.03.06-22.42.28:460][930]LogWorld: Bringing up level for play took: 0.002563
+[2025.03.06-22.42.28:461][930]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.06-22.42.28:461][930]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.06-22.42.28:461][930]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.06-22.42.28:462][930]LogBlueprintUserMessages: [HealhSystem] Has resucitado, seras el nuevo mesias?
+[2025.03.06-22.42.28:462][930]LogBlueprintUserMessages: [HealhSystem]  Solo tienes 1  vida :)
+[2025.03.06-22.42.28:462][930]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.06-22.42.28:463][930]PIE: Server logged in
+[2025.03.06-22.42.28:464][930]PIE: Play in editor total start time 0,109 seconds.
+[2025.03.06-22.42.31:758][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.06-22.42.31:758][292]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level_0
+[2025.03.06-22.42.31:758][292]LogWorld: UWorld::CleanupWorld for Level_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.42.31:758][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.42.31:761][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.06-22.42.31:764][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.42.31:772][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.06-22.42.31:772][292]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.06-22.42.31:772][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.06-22.42.31:774][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.06-22.42.31:780][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.06-22.42.31:839][293]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.03.06-22.42.43:957][999]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/cambio_1-2.cambio_1-2
+[2025.03.06-22.42.43:957][999]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.03.06-22.42.44:029][999]LogStreaming: Display: FlushAsyncLoading(357): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.06-22.42.44:866][999]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.06-22.42.46:703][163]LogSlate: Window 'cambio_1-2' being destroyed
+[2025.03.06-22.42.46:709][163]LogSlate: Window 'cambio_1-2' being destroyed
+[2025.03.06-22.42.46:737][163]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.42.46:737][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.42.46:793][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.06-22.42.49:624][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.06-22.42.49:624][473]Cmd: MAP LOAD FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.06-22.42.49:653][473]LogWorld: UWorld::CleanupWorld for Level_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.42.49:653][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.42.49:669][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.06-22.42.49:671][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.06-22.42.49:672][473]LogStreaming: Display: FlushAsyncLoading(528): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.06-22.42.49:677][473]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2025.03.06-22.42.49:678][473]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.03.06-22.42.49:701][473]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.06-22.42.49:721][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.06-22.42.49:732][473]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.06-22.42.49:732][473]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
+[2025.03.06-22.42.49:733][473]LogSlate: Window 'Open Level' being destroyed
+[2025.03.06-22.43.00:411][563]Cmd: DELETE
+[2025.03.06-22.43.00:411][563]Cmd: ACTOR DELETE
+[2025.03.06-22.43.00:414][563]LogEditorActor: Deleted Actor: cambio_2_C
+[2025.03.06-22.43.00:432][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.06-22.43.00:433][563]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.03.06-22.43.09:152][500]LogContentBrowser: Deferred new asset file creation: cambio_2_Child
+[2025.03.06-22.43.09:157][500]LogContentBrowser: Creating deferred item: cambio_2_Child
+[2025.03.06-22.43.09:168][501]LogContentBrowser: Renaming the item being created (Deferred Item: cambio_2_Child).
+[2025.03.06-22.44.12:457][664]LogContentBrowser: Attempting asset rename: cambio_2_Child -> cambio_2_Child
+[2025.03.06-22.44.12:464][664]LogContentBrowser: End creating deferred item cambio_2_Child
+[2025.03.06-22.44.20:848][627]LogContentBrowser: Attempting asset rename: cambio_2_Child -> cambio_3a
+[2025.03.06-22.44.20:906][627]LogMetaData: Removing '/Game/levels/cambio_3a.cambio_3a:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/levels/cambio_2_Child.PackageMetaData'
+[2025.03.06-22.44.20:906][627]LogMetaData: Removing '/Game/levels/cambio_3a.SKEL_cambio_3a_C:UserConstructionScript' ref from Metadata '/Game/levels/cambio_2_Child.PackageMetaData'
+[2025.03.06-22.44.20:906][627]LogMetaData: Removing '/Game/levels/cambio_3a.SKEL_cambio_3a_C' ref from Metadata '/Game/levels/cambio_2_Child.PackageMetaData'
+[2025.03.06-22.44.20:906][627]LogMetaData: Removing '/Game/levels/cambio_3a.cambio_3a_C' ref from Metadata '/Game/levels/cambio_2_Child.PackageMetaData'
+[2025.03.06-22.44.20:906][627]LogMetaData: Removing '/Game/levels/cambio_3a.cambio_3a:EventGraph.K2Node_Event_0' ref from Metadata '/Game/levels/cambio_2_Child.PackageMetaData'
+[2025.03.06-22.44.20:906][627]LogMetaData: Removing '/Game/levels/cambio_3a.cambio_3a:EventGraph.K2Node_Event_1' ref from Metadata '/Game/levels/cambio_2_Child.PackageMetaData'
+[2025.03.06-22.44.20:906][627]LogMetaData: Removing '/Game/levels/cambio_3a.cambio_3a:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/levels/cambio_2_Child.PackageMetaData'
+[2025.03.06-22.44.20:906][627]LogMetaData: Removing '/Game/levels/cambio_3a.cambio_3a:EventGraph.K2Node_Event_2' ref from Metadata '/Game/levels/cambio_2_Child.PackageMetaData'
+[2025.03.06-22.44.20:907][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-22.44.20:907][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/cambio_3a] ([2] browsable assets)...
+[2025.03.06-22.44.20:907][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/cambio_3a]
+[2025.03.06-22.44.20:907][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/cambio_3a" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_3a.uasset" SILENT=true
+[2025.03.06-22.44.20:909][627]LogSavePackage: Moving output files for package: /Game/levels/cambio_3a
+[2025.03.06-22.44.20:909][627]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/cambio_3a084AC07842F4F7223E486AAF8FF37940.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_3a.uasset'
+[2025.03.06-22.44.20:913][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.960 ms (total: 235.311 ms)
+[2025.03.06-22.44.20:937][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.06-22.44.20:959][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.06-22.44.20:978][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.06-22.44.21:033][627]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.06-22.44.21:033][627]LogContentValidation: Enabled validators:
+[2025.03.06-22.44.21:033][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-22.44.21:033][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-22.44.21:033][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-22.44.21:033][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-22.44.21:033][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-22.44.21:033][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-22.44.21:033][627]AssetCheck: /Game/levels/cambio_3a Validating asset
+[2025.03.06-22.44.31:619][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/cambio_3a.cambio_3a
+[2025.03.06-22.44.31:620][826]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.03.06-22.45.27:798][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.06-22.45.28:618][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-22.45.28:659][370]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/cambio_3a] ([2] browsable assets)...
+[2025.03.06-22.45.28:660][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/cambio_3a]
+[2025.03.06-22.45.28:660][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/cambio_3a" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_3a.uasset" SILENT=true
+[2025.03.06-22.45.28:662][370]LogSavePackage: Moving output files for package: /Game/levels/cambio_3a
+[2025.03.06-22.45.28:662][370]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/cambio_3aA937AEB2481310F3CB60F2A0BC0931BB.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_3a.uasset'
+[2025.03.06-22.45.28:669][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.621 ms (total: 285.932 ms)
+[2025.03.06-22.45.28:695][370]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.06-22.45.28:695][370]LogContentValidation: Enabled validators:
+[2025.03.06-22.45.28:695][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-22.45.28:695][370]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-22.45.28:695][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-22.45.28:695][370]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-22.45.28:695][370]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-22.45.28:695][370]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-22.45.28:695][370]AssetCheck: /Game/levels/cambio_3a Validating asset
+[2025.03.06-22.45.31:898][728]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_3a.cambio_3a_C
+[2025.03.06-22.45.31:898][728]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_3a.cambio_3a_C
+[2025.03.06-22.45.31:898][728]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_3a.cambio_3a as actor: cambio_3a_C /Game/levels/Level_1.Level_1:PersistentLevel.cambio_3a_C_0
+[2025.03.06-22.45.31:898][728]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_3a.cambio_3a as actor: cambio_3a_C /Game/levels/Level_1.Level_1:PersistentLevel.cambio_3a_C_0
+[2025.03.06-22.45.32:894][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.06-22.45.32:896][836]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.03.06-22.45.32:901][836]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_3a.cambio_3a_C
+[2025.03.06-22.45.32:901][836]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_3a.cambio_3a_C
+[2025.03.06-22.45.32:903][836]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_3a.cambio_3a as actor: cambio_3a_C /Game/levels/Level_1.Level_1:PersistentLevel.cambio_3a_C_1
+[2025.03.06-22.45.32:903][836]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_3a.cambio_3a as actor: cambio_3a_C /Game/levels/Level_1.Level_1:PersistentLevel.cambio_3a_C_1
+[2025.03.06-22.45.42:493][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.06-22.45.43:421][864]LogSlate: Window 'Save Content' being destroyed
+[2025.03.06-22.45.43:433][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-22.45.43:471][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level_1" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.06-22.45.43:517][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.06-22.45.43:529][864]LogSavePackage: Moving output files for package: /Game/levels/Level_1
+[2025.03.06-22.45.43:530][864]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/Level_178C8B3FE4929659773848489ADBAB894.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_1.umap'
+[2025.03.06-22.45.43:542][864]LogFileHelpers: Saving map 'Level_1' took 0.071
+[2025.03.06-22.45.43:567][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.202 ms (total: 420.135 ms)
+[2025.03.06-22.45.43:601][864]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.06-22.45.43:601][864]LogContentValidation: Enabled validators:
+[2025.03.06-22.45.43:601][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-22.45.43:601][864]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-22.45.43:601][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-22.45.43:601][864]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-22.45.43:601][864]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-22.45.43:601][864]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-22.45.43:602][864]AssetCheck: /Game/levels/Level_1 Validating asset
+[2025.03.06-22.45.47:952][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.06-22.45.47:954][331]Cmd: MAP LOAD FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_dos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.06-22.45.48:004][331]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.45.48:004][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.45.48:021][331]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.06-22.45.48:023][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.06-22.45.48:024][331]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.06-22.45.48:028][331]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_dos'.
+[2025.03.06-22.45.48:028][331]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_dos
+[2025.03.06-22.45.48:031][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_1.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:033][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:033][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:033][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:035][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_1.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:035][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_1.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:045][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:045][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:046][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:046][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:046][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:046][331]LogPhysics: Warning: Scale for /Game/levels/Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.06-22.45.48:058][331]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.06-22.45.48:080][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.06-22.45.48:090][331]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.06-22.45.48:090][331]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,044ms to complete.
+[2025.03.06-22.45.48:091][331]LogSlate: Window 'Open Level' being destroyed
+[2025.03.06-22.45.58:219][475]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_4.cambio_4_C
+[2025.03.06-22.45.58:219][475]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_4.cambio_4_C
+[2025.03.06-22.45.58:219][475]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_4.cambio_4 as actor: cambio_4_C /Game/levels/Level_dos.Level_dos:PersistentLevel.cambio_4_C_0
+[2025.03.06-22.45.58:219][475]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_4.cambio_4 as actor: cambio_4_C /Game/levels/Level_dos.Level_dos:PersistentLevel.cambio_4_C_0
+[2025.03.06-22.45.58:911][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.06-22.45.58:914][537]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.03.06-22.45.58:920][537]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_4.cambio_4_C
+[2025.03.06-22.45.58:920][537]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_4.cambio_4_C
+[2025.03.06-22.45.58:921][537]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_4.cambio_4 as actor: cambio_4_C /Game/levels/Level_dos.Level_dos:PersistentLevel.cambio_4_C_1
+[2025.03.06-22.45.58:921][537]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_4.cambio_4 as actor: cambio_4_C /Game/levels/Level_dos.Level_dos:PersistentLevel.cambio_4_C_1
+[2025.03.06-22.46.07:056][405]Cmd: TRANSACTION UNDO
+[2025.03.06-22.46.07:056][405]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.06-22.46.07:391][415]Cmd: TRANSACTION UNDO
+[2025.03.06-22.46.07:391][415]LogEditorTransaction: Undo Rotate Elements
+[2025.03.06-22.46.07:761][442]Cmd: TRANSACTION UNDO
+[2025.03.06-22.46.07:761][442]LogEditorTransaction: Undo Rotate Elements
+[2025.03.06-22.46.08:148][486]Cmd: TRANSACTION UNDO
+[2025.03.06-22.46.08:148][486]LogEditorTransaction: Undo Place Objects
+[2025.03.06-22.46.10:826][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/cambio_2.cambio_2
+[2025.03.06-22.46.10:826][796]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.03.06-22.46.17:013][499]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.46.17:013][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.46.17:079][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.06-22.46.24:670][371]LogSlate: Window 'cambio_3a' being destroyed
+[2025.03.06-22.46.24:681][371]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.06-22.46.24:681][371]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.46.24:681][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.46.24:734][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.06-22.46.27:408][684]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/cambio_4.cambio_4
+[2025.03.06-22.46.27:408][684]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.03.06-22.46.31:436][ 84]LogSlate: Window 'cambio_4' being destroyed
+[2025.03.06-22.46.31:447][ 84]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.46.31:447][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.46.31:511][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.06-22.46.35:155][513]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/cambio_4.cambio_4
+[2025.03.06-22.46.35:155][513]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.03.06-22.46.38:279][811]LogSlate: Window 'cambio_4' being destroyed
+[2025.03.06-22.46.38:334][811]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.46.38:334][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.46.38:399][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.06-22.46.39:907][985]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/cambio_2.cambio_2
+[2025.03.06-22.46.39:907][985]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.03.06-22.46.48:190][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.06-22.46.49:723][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.06-22.46.50:445][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-22.46.50:479][181]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/cambio_2] ([2] browsable assets)...
+[2025.03.06-22.46.50:479][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/cambio_2]
+[2025.03.06-22.46.50:479][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/cambio_2" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_2.uasset" SILENT=true
+[2025.03.06-22.46.50:481][181]LogSavePackage: Moving output files for package: /Game/levels/cambio_2
+[2025.03.06-22.46.50:482][181]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/cambio_23D5BFDC146AFAFD8D2DAC493772C3C0E.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_2.uasset'
+[2025.03.06-22.46.50:490][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.295 ms (total: 464.430 ms)
+[2025.03.06-22.46.50:513][181]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.06-22.46.50:513][181]LogContentValidation: Enabled validators:
+[2025.03.06-22.46.50:513][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-22.46.50:513][181]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-22.46.50:513][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-22.46.50:513][181]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-22.46.50:513][181]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-22.46.50:513][181]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-22.46.50:513][181]AssetCheck: /Game/levels/cambio_2 Validating asset
+[2025.03.06-22.47.02:976][507]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 678.435425
+[2025.03.06-22.47.03:092][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-22.47.03:092][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.542908, Update Interval: 301.307404
+[2025.03.06-22.47.05:531][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.06-22.47.06:038][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-22.47.06:066][859]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/cambio_2] ([2] browsable assets)...
+[2025.03.06-22.47.06:066][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/cambio_2]
+[2025.03.06-22.47.06:066][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/cambio_2" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_2.uasset" SILENT=true
+[2025.03.06-22.47.06:068][859]LogSavePackage: Moving output files for package: /Game/levels/cambio_2
+[2025.03.06-22.47.06:069][859]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/cambio_224325D4A42D56311C4416F883EDE64B5.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/cambio_2.uasset'
+[2025.03.06-22.47.06:075][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.301 ms (total: 501.732 ms)
+[2025.03.06-22.47.06:099][859]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.06-22.47.06:100][859]LogContentValidation: Enabled validators:
+[2025.03.06-22.47.06:100][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-22.47.06:100][859]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-22.47.06:100][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-22.47.06:100][859]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-22.47.06:100][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-22.47.06:100][859]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-22.47.06:100][859]AssetCheck: /Game/levels/cambio_2 Validating asset
+[2025.03.06-22.47.08:486][142]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.47.08:486][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.47.08:541][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.06-22.47.10:350][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/cambio_3a.cambio_3a
+[2025.03.06-22.47.10:351][352]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.03.06-22.47.12:585][546]LogSlate: Window 'cambio_3a' being destroyed
+[2025.03.06-22.47.12:633][546]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.47.12:633][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.47.12:698][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.06-22.47.14:813][790]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_2.cambio_2_C
+[2025.03.06-22.47.14:813][790]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_2.cambio_2_C
+[2025.03.06-22.47.14:814][790]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_2.cambio_2 as actor: cambio_2_C /Game/levels/Level_dos.Level_dos:PersistentLevel.cambio_2_C_0
+[2025.03.06-22.47.14:814][790]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_2.cambio_2 as actor: cambio_2_C /Game/levels/Level_dos.Level_dos:PersistentLevel.cambio_2_C_0
+[2025.03.06-22.47.15:529][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.06-22.47.15:531][865]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.03.06-22.47.15:535][865]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_2.cambio_2_C
+[2025.03.06-22.47.15:535][865]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/levels/cambio_2.cambio_2_C
+[2025.03.06-22.47.15:537][865]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_2.cambio_2 as actor: cambio_2_C /Game/levels/Level_dos.Level_dos:PersistentLevel.cambio_2_C_1
+[2025.03.06-22.47.15:537][865]LogActorFactory: Actor Factory spawned Blueprint /Game/levels/cambio_2.cambio_2 as actor: cambio_2_C /Game/levels/Level_dos.Level_dos:PersistentLevel.cambio_2_C_1
+[2025.03.06-22.47.40:547][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/cambio_2.cambio_2
+[2025.03.06-22.47.40:547][779]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.03.06-22.47.43:826][136]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-22.47.43:826][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-22.47.43:889][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.06-22.47.49:616][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.06-22.47.50:982][787]LogSlate: Window 'Save Content' being destroyed
+[2025.03.06-22.47.50:988][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-22.47.51:017][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level_dos" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_dos.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.06-22.47.51:060][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.06-22.47.51:075][787]LogSavePackage: Moving output files for package: /Game/levels/Level_dos
+[2025.03.06-22.47.51:075][787]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/Level_dos2D0321B14E3B9214C5D83A96A2208BD1.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_dos.umap'
+[2025.03.06-22.47.51:089][787]LogFileHelpers: Saving map 'Level_dos' took 0.072
+[2025.03.06-22.47.51:094][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.877 ms (total: 607.609 ms)
+[2025.03.06-22.47.51:120][787]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.06-22.47.51:120][787]LogContentValidation: Enabled validators:
+[2025.03.06-22.47.51:120][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-22.47.51:120][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-22.47.51:120][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-22.47.51:120][787]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-22.47.51:120][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-22.47.51:120][787]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-22.47.51:120][787]AssetCheck: /Game/levels/Level_dos Validating asset
