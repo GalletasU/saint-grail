@@ -6,6 +6,9 @@
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
 				"C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_1.umap",
+				"C:/Users/david/Documents/GitHub/saint-grail/Content/StarterContent/Materials/M_Cubo_Translucido.uasset",
+				"C:/Users/david/Documents/GitHub/saint-grail/Content/StarterContent/Blueprints/BP_Plataforma_Horizontal.uasset",
+				"C:/Users/david/Documents/GitHub/saint-grail/Content/StarterContent/Blueprints/BP_Plataforma_rotada.uasset",
 				"D:/UE_Projects/saint-grail/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
 				"D:/UE_Projects/saint-grail/Content/levels/NewWorld.umap",
 				"D:/UE_Projects/saint-grail/Content/levels/NewWorld1.umap",
