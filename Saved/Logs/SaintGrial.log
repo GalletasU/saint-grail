@@ -4452,3 +4452,203 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.07-19.03.47:624][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.07-19.03.47:624][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.07-19.03.47:625][976]AssetCheck: /Game/levels/Level_1 Validating asset
+[2025.03.07-19.04.10:947][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.07-19.04.10:948][461]Cmd: MAP LOAD FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Final.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.07-19.04.10:974][461]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-19.04.10:974][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-19.04.10:984][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.07-19.04.10:985][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.07-19.04.10:985][461]LogStreaming: Display: FlushAsyncLoading(357): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.07-19.04.10:989][461]LogAudio: Display: Audio Device (ID: 1) registered with world 'Final'.
+[2025.03.07-19.04.10:989][461]LogChaosDD: Creating Chaos Debug Draw Scene for world Final
+[2025.03.07-19.04.11:052][461]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.07-19.04.11:063][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.07-19.04.11:074][461]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.07-19.04.11:074][461]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,047ms to complete.
+[2025.03.07-19.04.11:074][461]LogSlate: Window 'Open Level' being destroyed
+[2025.03.07-19.04.15:783][961]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2025.03.07-19.04.15:783][961]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2025.03.07-19.04.22:058][643]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2025.03.07-19.04.22:058][643]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.03.07-19.04.22:058][643]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.03.07-19.04.25:249][990]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2025.03.07-19.04.25:249][990]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.03.07-19.04.25:249][990]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.03.07-19.04.26:712][153]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2025.03.07-19.04.26:713][153]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2025.03.07-19.04.26:713][153]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2025.03.07-19.04.27:916][287]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2025.03.07-19.04.27:916][287]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2025.03.07-19.04.27:916][287]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2025.03.07-19.04.29:447][457]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2025.03.07-19.04.29:447][457]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.03.07-19.04.29:447][457]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.03.07-19.04.36:005][126]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2025.03.07-19.04.36:005][126]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.03.07-19.04.38:725][450]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.03.07-19.04.38:725][450]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.03.07-19.04.43:218][941]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.03.07-19.04.43:218][941]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.03.07-19.04.45:328][178]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:4]]
+[2025.03.07-19.04.45:328][178]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.03.07-19.04.45:351][178]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.07-19.04.46:520][314]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:2]]
+[2025.03.07-19.04.46:520][314]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:256]]
+[2025.03.07-19.04.46:534][314]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.07-19.04.47:998][475]Cmd: SELECT NONE
+[2025.03.07-19.04.58:373][563]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.07-19.04.59:937][720]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.07-19.05.03:928][103]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.07-19.05.06:960][386]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.07-19.05.12:202][971]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.07-19.05.14:178][197]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.07-19.05.15:052][296]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.07-19.05.15:064][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.07-19.05.15:064][296]LogPlayLevel: Display: Creating online subsystem for client :Context_16
+[2025.03.07-19.05.15:066][296]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.03.07-19.05.15:081][297]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Final
+[2025.03.07-19.05.15:084][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002633s)
+[2025.03.07-19.05.15:084][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Final.Final to /Game/levels/UEDPIE_0_Final.Final (0.002674s)
+[2025.03.07-19.05.15:094][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.07-19.05.15:096][297]LogChaosDD: Creating Chaos Debug Draw Scene for world Final
+[2025.03.07-19.05.15:097][297]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2025.03.07-19.05.15:097][297]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.03.07-19.05.15:097][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.07-19.05.15:097][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.07-19.05.15:097][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.07-19.05.15:097][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.07-19.05.15:098][297]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.07-19.05.15:098][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.07-19.05.15:098][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.07-19.05.15:098][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.07-19.05.15:098][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.07-19.05.15:098][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.07-19.05.15:098][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.07-19.05.15:099][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.07-19.05.15:127][297]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.03.07-19.05.15:128][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.07-19.05.15:128][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.07-19.05.15:128][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.07-19.05.15:128][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.03.07-19.05.15:128][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.03.07-19.05.15:130][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.03.07-19.05.15:130][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.03.07-19.05.15:130][297]LogInit: FAudioDevice initialized with ID 14.
+[2025.03.07-19.05.15:130][297]LogAudio: Display: Audio Device (ID: 14) registered with world 'Final'.
+[2025.03.07-19.05.15:130][297]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.07-19.05.15:133][297]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.07-19.05.15:134][297]LogWorld: Bringing World /Game/levels/UEDPIE_0_Final.Final up for play (max tick rate 0) at 2025.03.07-14.05.15
+[2025.03.07-19.05.15:134][297]LogWorld: Bringing up level for play took: 0.001507
+[2025.03.07-19.05.15:136][297]LogBlueprintUserMessages: [HealhSystem] Has resucitado, seras el nuevo mesias?
+[2025.03.07-19.05.15:136][297]LogBlueprintUserMessages: [HealhSystem]  Solo tienes 1  vida :)
+[2025.03.07-19.05.15:137][297]PIE: Server logged in
+[2025.03.07-19.05.15:138][297]PIE: Play in editor total start time 0,074 seconds.
+[2025.03.07-19.05.30:686][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-19.05.30:686][150]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Final
+[2025.03.07-19.05.30:686][150]LogWorld: UWorld::CleanupWorld for Final, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-19.05.30:687][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-19.05.30:690][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.07-19.05.30:692][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-19.05.30:699][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-19.05.30:699][150]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.07-19.05.30:699][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.07-19.05.30:701][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.07-19.05.30:706][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.07-19.05.30:752][151]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.03.07-19.05.33:661][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.07-19.05.36:152][494]LogSlate: Window 'Save Content' being destroyed
+[2025.03.07-19.05.36:159][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.07-19.05.36:183][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Final" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Final.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.07-19.05.36:218][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.07-19.05.36:228][494]LogSavePackage: Moving output files for package: /Game/levels/Final
+[2025.03.07-19.05.36:228][494]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/Final9859CE334DD4773B87B00AB7E7E45F1E.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Final.umap'
+[2025.03.07-19.05.36:241][494]LogFileHelpers: Saving map 'Final' took 0.057
+[2025.03.07-19.05.36:267][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.977 ms (total: 302.393 ms)
+[2025.03.07-19.05.36:296][494]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.07-19.05.36:296][494]LogContentValidation: Enabled validators:
+[2025.03.07-19.05.36:296][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.07-19.05.36:296][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.07-19.05.36:296][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.07-19.05.36:296][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.07-19.05.36:296][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.07-19.05.36:296][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.07-19.05.36:296][494]AssetCheck: /Game/levels/Final Validating asset
