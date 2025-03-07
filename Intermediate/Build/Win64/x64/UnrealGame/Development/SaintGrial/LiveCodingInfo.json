@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SaintGrial.cpp.obj": [
+			"SaintGrial.cpp.obj"
+		]
+	}
+}
