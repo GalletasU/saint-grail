@@ -4263,3 +4263,192 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.07-18.59.16:480][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.07-18.59.16:480][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.07-18.59.16:480][114]AssetCheck: /Game/levels/Level_dos Validating asset
+[2025.03.07-18.59.36:817][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1677.170044
+[2025.03.07-18.59.37:817][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-18.59.37:817][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1677.836548, Update Interval: 323.245941
+[2025.03.07-18.59.51:097][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.07-18.59.51:098][ 19]Cmd: MAP LOAD FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.07-18.59.51:160][ 19]LogWorld: UWorld::CleanupWorld for Level_dos, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-18.59.51:160][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-18.59.51:169][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.07-18.59.51:171][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.07-18.59.51:172][ 19]LogStreaming: Display: FlushAsyncLoading(352): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.07-18.59.51:210][ 19]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2025.03.07-18.59.51:210][ 19]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.03.07-18.59.51:281][ 19]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.07-18.59.51:290][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.07-18.59.51:302][ 19]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.07-18.59.51:302][ 19]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,048ms to complete.
+[2025.03.07-18.59.51:302][ 19]LogSlate: Window 'Open Level' being destroyed
+[2025.03.07-19.00.10:158][223]Cmd: TRANSACTION UNDO
+[2025.03.07-19.00.10:158][223]LogEditorTransaction: Undo Rotate Elements
+[2025.03.07-19.00.20:408][389]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.07-19.00.20:415][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.07-19.00.20:450][389]LogPlayLevel: Display: Creating online subsystem for client :Context_15
+[2025.03.07-19.00.20:452][389]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.03.07-19.00.20:466][390]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level_1
+[2025.03.07-19.00.20:470][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003738s)
+[2025.03.07-19.00.20:471][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level_1.Level_1 to /Game/levels/UEDPIE_0_Level_1.Level_1 (0.003782s)
+[2025.03.07-19.00.20:478][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.07-19.00.20:481][390]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.03.07-19.00.20:482][390]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2025.03.07-19.00.20:483][390]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.03.07-19.00.20:483][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.07-19.00.20:483][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.07-19.00.20:483][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.07-19.00.20:483][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.07-19.00.20:483][390]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.07-19.00.20:483][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.07-19.00.20:483][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.07-19.00.20:483][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.07-19.00.20:483][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.07-19.00.20:483][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.07-19.00.20:483][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.07-19.00.20:485][390]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.07-19.00.20:514][390]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.03.07-19.00.20:514][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.07-19.00.20:514][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.07-19.00.20:514][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.07-19.00.20:515][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.03.07-19.00.20:515][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.03.07-19.00.20:517][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.03.07-19.00.20:517][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.03.07-19.00.20:517][390]LogInit: FAudioDevice initialized with ID 13.
+[2025.03.07-19.00.20:517][390]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_1'.
+[2025.03.07-19.00.20:517][390]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.07-19.00.20:519][390]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.03.07-19.00.20:520][390]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.03.07-14.00.20
+[2025.03.07-19.00.20:521][390]LogWorld: Bringing up level for play took: 0.001916
+[2025.03.07-19.00.20:521][390]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.07-19.00.20:521][390]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.07-19.00.20:521][390]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.07-19.00.20:523][390]LogBlueprintUserMessages: [HealhSystem] Has resucitado, seras el nuevo mesias?
+[2025.03.07-19.00.20:523][390]LogBlueprintUserMessages: [HealhSystem]  Solo tienes 1  vida :)
+[2025.03.07-19.00.20:523][390]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.07-19.00.20:523][390]PIE: Server logged in
+[2025.03.07-19.00.20:524][390]PIE: Play in editor total start time 0,109 seconds.
+[2025.03.07-19.01.08:616][141]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.07-19.01.08:616][141]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.07-19.01.08:617][141]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/levels/Level_dos"
+[2025.03.07-19.01.08:617][141]LogNet: Browse: /Game/levels/Level_dos
+[2025.03.07-19.01.08:617][141]LogLoad: LoadMap: /Game/levels/Level_dos
+[2025.03.07-19.01.08:617][141]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level_1
+[2025.03.07-19.01.08:617][141]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-19.01.08:618][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-19.01.08:648][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.07-19.01.08:650][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.07-19.01.08:651][141]LogStreaming: Display: FlushAsyncLoading(353): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.07-19.01.08:655][141]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_dos'.
+[2025.03.07-19.01.08:655][141]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_dos
+[2025.03.07-19.01.08:657][141]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2025.03.07-19.01.08:657][141]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.03.07-19.01.08:657][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:657][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:657][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:665][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:666][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:666][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:666][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:666][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:666][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:666][141]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Level_dos.Level_dos:PersistentLevel.Salpicadura_Lava_C_4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=24.375 Z=15.625
+[2025.03.07-19.01.08:668][141]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level_dos.Level_dos up for play (max tick rate 0) at 2025.03.07-14.01.08
+[2025.03.07-19.01.08:669][141]LogWorld: Bringing up level for play took: 0.012717
+[2025.03.07-19.01.08:669][141]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.07-19.01.08:669][141]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.07-19.01.08:669][141]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.07-19.01.08:671][141]LogBlueprintUserMessages: [HealhSystem] Has resucitado, seras el nuevo mesias?
+[2025.03.07-19.01.08:671][141]LogBlueprintUserMessages: [HealhSystem]  Solo tienes 1  vida :)
+[2025.03.07-19.01.08:671][141]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.07-19.01.08:671][141]LogLoad: Took 0.054329 seconds to LoadMap(/Game/levels/Level_dos)
+[2025.03.07-19.01.08:671][141]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/levels/Level_dos
+[2025.03.07-19.01.52:298][375]LogBlueprintUserMessages: [HealhSystem] 0
+[2025.03.07-19.01.52:298][375]LogBlueprintUserMessages: [BPCaballero_C_0] Tu mision ha acabado?
+[2025.03.07-19.01.55:289][734]LogBlueprintUserMessages: [HealhSystem] Has resucitado, seras el nuevo mesias?
+[2025.03.07-19.01.55:289][734]LogBlueprintUserMessages: [HealhSystem]  Solo tienes 1  vida :)
+[2025.03.07-19.02.24:465][235]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.07-19.02.24:465][235]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.07-19.02.24:466][235]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/levels/Level_3"
+[2025.03.07-19.02.24:466][235]LogNet: Browse: /Game/levels/Level_3
+[2025.03.07-19.02.24:466][235]LogLoad: LoadMap: /Game/levels/Level_3
+[2025.03.07-19.02.24:466][235]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level_dos
+[2025.03.07-19.02.24:466][235]LogWorld: UWorld::CleanupWorld for Level_dos, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-19.02.24:467][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-19.02.24:507][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.07-19.02.24:509][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.07-19.02.24:510][235]LogStreaming: Display: FlushAsyncLoading(354): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.07-19.02.24:514][235]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_3'.
+[2025.03.07-19.02.24:514][235]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_3
+[2025.03.07-19.02.24:515][235]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2025.03.07-19.02.24:515][235]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.03.07-19.02.24:523][235]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2025.03.07-14.02.24
+[2025.03.07-19.02.24:524][235]LogWorld: Bringing up level for play took: 0.008230
+[2025.03.07-19.02.24:524][235]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.07-19.02.24:524][235]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.07-19.02.24:524][235]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.07-19.02.24:526][235]LogBlueprintUserMessages: [HealhSystem] Has resucitado, seras el nuevo mesias?
+[2025.03.07-19.02.24:526][235]LogBlueprintUserMessages: [HealhSystem]  Solo tienes 1  vida :)
+[2025.03.07-19.02.24:526][235]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.07-19.02.24:526][235]LogLoad: Took 0.059889 seconds to LoadMap(/Game/levels/Level_3)
+[2025.03.07-19.02.24:526][235]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/levels/Level_3
+[2025.03.07-19.02.28:012][653]LogBlueprintUserMessages: [HealhSystem] 0
+[2025.03.07-19.02.28:012][653]LogBlueprintUserMessages: [BPCaballero_C_0] Tu mision ha acabado?
+[2025.03.07-19.02.28:820][750]LogBlueprintUserMessages: [HealhSystem] 1
+[2025.03.07-19.02.31:004][ 12]LogBlueprintUserMessages: [HealhSystem] Has resucitado, seras el nuevo mesias?
+[2025.03.07-19.02.31:004][ 12]LogBlueprintUserMessages: [HealhSystem]  Solo tienes 1  vida :)
+[2025.03.07-19.02.33:070][260]LogBlueprintUserMessages: [HealhSystem] 0
+[2025.03.07-19.02.33:070][260]LogBlueprintUserMessages: [BPCaballero_C_0] Tu mision ha acabado?
+[2025.03.07-19.02.36:063][619]LogBlueprintUserMessages: [HealhSystem] Has resucitado, seras el nuevo mesias?
+[2025.03.07-19.02.36:063][619]LogBlueprintUserMessages: [HealhSystem]  Solo tienes 1  vida :)
+[2025.03.07-19.03.28:704][935]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.07-19.03.28:704][935]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.07-19.03.28:704][935]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/levels/Final"
+[2025.03.07-19.03.28:704][935]LogNet: Browse: /Game/levels/Final
+[2025.03.07-19.03.28:704][935]LogLoad: LoadMap: /Game/levels/Final
+[2025.03.07-19.03.28:704][935]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level_3
+[2025.03.07-19.03.28:705][935]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-19.03.28:705][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-19.03.28:747][935]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.07-19.03.28:748][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.07-19.03.28:748][935]LogStreaming: Display: FlushAsyncLoading(355): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.07-19.03.28:767][935]LogAudio: Display: Audio Device (ID: 13) registered with world 'Final'.
+[2025.03.07-19.03.28:767][935]LogChaosDD: Creating Chaos Debug Draw Scene for world Final
+[2025.03.07-19.03.28:768][935]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2025.03.07-19.03.28:775][935]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.07-19.03.28:775][935]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor being ready before playing
+[2025.03.07-19.03.28:780][935]LogWorld: Bringing World /Game/levels/UEDPIE_0_Final.Final up for play (max tick rate 0) at 2025.03.07-14.03.28
+[2025.03.07-19.03.28:781][935]LogWorld: Bringing up level for play took: 0.005600
+[2025.03.07-19.03.28:783][935]LogBlueprintUserMessages: [HealhSystem] Has resucitado, seras el nuevo mesias?
+[2025.03.07-19.03.28:783][935]LogBlueprintUserMessages: [HealhSystem]  Solo tienes 1  vida :)
+[2025.03.07-19.03.28:783][935]LogLoad: Took 0.079103 seconds to LoadMap(/Game/levels/Final)
+[2025.03.07-19.03.28:783][935]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/levels/Final
+[2025.03.07-19.03.39:677][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-19.03.39:677][238]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Final
+[2025.03.07-19.03.39:677][238]LogWorld: UWorld::CleanupWorld for Final, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-19.03.39:678][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-19.03.39:681][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.07-19.03.39:683][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-19.03.39:693][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-19.03.39:693][238]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.07-19.03.39:693][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.07-19.03.39:694][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.07-19.03.39:699][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.07-19.03.39:785][240]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.03.07-19.03.46:447][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.07-19.03.47:488][976]LogSlate: Window 'Save Content' being destroyed
+[2025.03.07-19.03.47:494][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.07-19.03.47:514][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level_1" FILE="C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.07-19.03.47:548][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.07-19.03.47:562][976]LogSavePackage: Moving output files for package: /Game/levels/Level_1
+[2025.03.07-19.03.47:562][976]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/saint-grail/Saved/Level_156AB91B648D2F90B941B809290AD76F8.tmp' to 'C:/Users/david/Documents/GitHub/saint-grail/Content/levels/Level_1.umap'
+[2025.03.07-19.03.47:575][976]LogFileHelpers: Saving map 'Level_1' took 0.061
+[2025.03.07-19.03.47:595][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.894 ms (total: 194.415 ms)
+[2025.03.07-19.03.47:624][976]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.07-19.03.47:624][976]LogContentValidation: Enabled validators:
+[2025.03.07-19.03.47:624][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.07-19.03.47:624][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.07-19.03.47:624][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.07-19.03.47:624][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.07-19.03.47:624][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.07-19.03.47:624][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.07-19.03.47:625][976]AssetCheck: /Game/levels/Level_1 Validating asset
